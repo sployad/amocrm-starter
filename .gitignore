@@ -1,0 +1,8 @@
+.vscode
+.idea
+bower_components/
+node_modules/
+dist/
+publish/
+*.log
+*.zip

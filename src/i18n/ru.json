@@ -1,0 +1,11 @@
+{
+  "widget": {
+    "name": "AmoCRM Starter",
+    "description": "Удобный способ начать писать виджет для AmoCRM",
+    "short_description": "Удобный способ начать писать виджет для AmoCRM"
+  },
+  "settings": {
+    "serverURL": "URL сервера",
+    "secret": "Secret ключ"
+  }
+}

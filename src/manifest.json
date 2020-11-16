@@ -1,0 +1,24 @@
+{
+  "widget": {
+    "name": "widget.name",
+    "description": "widget.description",
+    "short_description": "widget.short_description",
+    "version": "1.0.43",
+    "interface_version": 2,
+    "installation": true,
+    "locale": ["ru"]
+  },
+  "locations": ["lcard-0", "card_sdk"],
+  "settings": {
+    "serverURL": {
+      "name": "settings.serverURL",
+      "type": "text",
+      "required": true
+    },
+    "secret": {
+      "name": "settings.secret",
+      "type": "text",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "amocrm-widget-booking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sployad/amocrm-starter.git"
+  },
+  "keywords": [
+    "crm",
+    "amocrm",
+    "kit",
+    "widget"
+  ],
+  "author": "sployad <roman@neretin.pro> (https://github.com/sployad)",
+  "license": "MIT",
+  "homepage": "https://github.com/sployad/amocrm-starter#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-csslint": "^1.0.1",
+    "gulp-include": "^2.4.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-json-editor": "^2.5.4",
+    "gulp-jsonlint": "^1.1.1",
+    "gulp-strip-comments": "^2.4.3",
+    "gulp-util": "^3.0.8",
+    "gulp-zip": "^5.0.2",
+    "jshint": "^2.12.0",
+    "jshint-stylish": "^2.2.1",
+    "jsonlint": "^1.6.3",
+    "semver": "^7.3.2"
+  },
+  "jshintConfig": {
+    "globals": {
+      "define": false
+    },
+    "esversion": 6,
+    "bitwise": true,
+    "browser": true,
+    "curly": true,
+    "eqeqeq": false,
+    "forin": true,
+    "immed": true,
+    "indent": 2,
+    "latedef": "nofunc",
+    "newcap": true,
+    "noarg": true,
+    "noempty": true,
+    "nonbsp": true,
+    "nonew": true,
+    "strict": false,
+    "globalstrict": "global",
+    "sub": true,
+    "supernew": true,
+    "undef": true,
+    "unused": true
+  },
+  "dependencies": {}
+}
