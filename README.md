@@ -13,7 +13,7 @@
 
 ## С чего начать?
 
-#### 1. Устаонвить NodeJS [Download and install node.js](http://nodejs.org/download/).
+#### 1. NodeJS [Скачать и установить node.js](http://nodejs.org/download/).
 
 #### 2. Склонировать репозиторий
 
